@@ -11,5 +11,5 @@ function getFirstLastLettersArrey (arr) {
   }
   
 
-  const newArray = getFirstLastLettersArrey(array2);
-  console.log(newArray);
+  const newArrayFirstLastLetters = getFirstLastLettersArrey(array2);
+  console.log(newArrayFirstLastLetters);
